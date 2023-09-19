@@ -1,2 +1,2 @@
-# Titanic_dataset
-The Titanic dataset contains information on passengers who were aboard the Titanic during its maiden voyage in 1912, including demographics, cabin class, fare paid, and survival status. The dataset is commonly used in data science and machine learning projects for exploring data visualization techniques, data preprocessing, and predictive modeling.
+# Python
+Python is a versatile, high-level programming language known for its readability and ease of use, making it widely used for web development, data analysis, and automation
